@@ -11,7 +11,6 @@ Slightly More Technical Blog Link: https://towardsdatascience.com/hypothesis-tes
 
 For our module two final project, we were tasked to demonstrate our ability to gather real-world information and use our knowledge of statistical analysis and hypothesis testing to gain an analytical understanding in a meaningful way. We selected the European Soccer Dataset (https://www.kaggle.com/hugomathien/soccer) to use for our project. We have angled ourselves as an analytics team, with the goal to help improve club management, players development/player selection, formation tactics, team attributes, and transfer market. 
 
-Link for our class presentation: https://github.com/kevintheduu/Hypothesis-Testing-European-Soccer-Data/blob/master/README.md
 The presentation frames us, the authors of this repo, as an analytics team presenting our findings to potential clubs hoping to hire us to improve their organizations. 
 
 Before exploring the dataset, we first formulated some initial questions that the data can possibly answer. 
