@@ -9,7 +9,7 @@ Slightly More Technical Blog Link: https://towardsdatascience.com/hypothesis-tes
 
 ![Map_European_Clubs](map_clubs.png)
 
-For our module two final project, we were tasked to demonstrate our ability to gather real-world information and use our knowledge of statistically analysis and hypothesis testing to gain an analytical understanding in a meaningful way. We selected the European Soccer Dataset (https://www.kaggle.com/hugomathien/soccer) to use for our project. We have angled ourselves as an analytics team, with the goal to help improve club management, players development/player selection, formation tactics, team attributes, and transfer market. 
+For our module two final project, we were tasked to demonstrate our ability to gather real-world information and use our knowledge of statistical analysis and hypothesis testing to gain an analytical understanding in a meaningful way. We selected the European Soccer Dataset (https://www.kaggle.com/hugomathien/soccer) to use for our project. We have angled ourselves as an analytics team, with the goal to help improve club management, players development/player selection, formation tactics, team attributes, and transfer market. 
 
 
 Checkout our blog post: blog link here
